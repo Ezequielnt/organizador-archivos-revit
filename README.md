@@ -29,4 +29,4 @@ Al ejecutar el programa por primera vez, se creará un archivo `reglas_revit.jso
 ```
 
 ---
-Desarrollado por [Tu Nombre]
+Desarrollado por Ezequiel :)
