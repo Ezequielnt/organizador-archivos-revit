@@ -1,0 +1,14 @@
+# Archivos de compilación y temporales
+__pycache__/
+build/
+dist/
+*.spec
+
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Archivos de configuración locales (opcional, pero recomendado si tienes claves)
+# reglas_revit.json (Si quieres que bajen el default, NO lo pongas aquí. Si es privado, sí)
+*.log

@@ -1,0 +1,66 @@
+{
+    "Puertas": [
+        "puerta",
+        "door",
+        "portón",
+        "entrada",
+        "gate"
+    ],
+    "Techos": [
+    "roof", 
+    "tejado", 
+    "cubierta"
+],
+    "Ventanas": [
+        "ventana",
+        "window",
+        "glass",
+        "vidrio",
+        "climalit"
+    ],
+    "Mobiliario": [
+        "mesa",
+        "silla",
+        "sofa",
+        "table",
+        "chair",
+        "cama",
+        "bed",
+        "escritorio"
+    ],
+    "Vegetacion": [
+        "arbol",
+        "tree",
+        "planta",
+        "plant",
+        "rpc"
+    ],
+    "Coches": [
+        "coche",
+        "car",
+        "vehiculo",
+        "parking"
+    ],
+    "Iluminacion": [
+        "luz",
+        "foco",
+        "lampara",
+        "light",
+        "lamp",
+        "iluminacion",
+        "led"
+    ],
+    "Sanitarios": [
+        "wc",
+        "inodoro",
+        "lavabo",
+        "sink",
+        "bath",
+        "ducha",
+        "bañera",
+        "grifo"
+    ],
+    "Proyectos_RVT": [
+        ".rvt"
+    ]
+}
